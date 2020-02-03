@@ -1,7 +1,7 @@
 var totalLaugh = 0
 var measureCount = 0
 
-let laughterThreshold = 0.2
+let laughterThreshold = 0.4
 let laughToMoneyExchangeRate = 10
 let laughToTokenCap = 5
 
